@@ -1,0 +1,18 @@
+@import url(/css/root.css);
+
+* {
+    color: white;
+    background-color: black;
+    font-family: var(--font1);
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+article {
+    font-size: 17px;
+}
+
+h2 {
+    font-size: 12px;
+    color: rgba(0, 47, 255, 0.356);
+}
